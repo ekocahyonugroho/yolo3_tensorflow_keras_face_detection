@@ -1,0 +1,1 @@
+python example.py --datasets COCO --img_path datasets/coco_dataset/val2017/ --label datasets/coco_dataset/annotations/instances_val2017.json --convert_output_path datasets/coco_dataset/val2017_gt/ --img_type ".jpg" --manipast_path datasets/coco_dataset/ --cls_list_file datasets/coco_dataset/coco.names
