@@ -5,3 +5,7 @@ https://github.com/qqwweee/keras-yolo3,
 https://github.com/Cartucho/mAP,
 
 Slightly modified, mainly modified some inputs and outputs, implemented video/face detection and mAP evaluation of results
+
+You can read my publication on IJAST :
+
+http://sersc.org/journals/index.php/IJAST/article/view/4520
